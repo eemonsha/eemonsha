@@ -1,31 +1,13 @@
 <body>
   <center>
-<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<h1 align="center">~ 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 ℙ𝕣𝕠𝕗𝕚𝕝𝕖 ~</h1>
 <br>
-    <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=eemonsha&color=green"/>
-    </div>
-    <hr>
-<div align="center">
-<!-- <a href="https://discord.com/users/202740603790819328" > -->
-  <a href="https://laby.net/@Sorakali" >
-   <img src="https://lanyard.cnrad.dev/api/202740603790819328?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
-  </a>
-    <br>
-  <p>𝑔𝒾𝓇𝒾𝑔𝒾𝓇𝒾 𝒶𝒾</p>
-  <p>𝒾𝓀𝑒𝓃𝒶𝒾 𝒷𝑜𝓇𝒹𝑒𝓇𝓁𝒾𝓃𝑒</p>
-  <p>𝒩𝒶𝓃'𝒾 𝒹𝑜 𝒢 𝒹𝑒𝓂𝑜</p>
-<p>𝒮𝓊𝒷𝑒𝓉𝑒 𝓀𝑜𝓌𝒶𝓈𝒽𝒾𝓉𝑒 𝓂𝒾𝓈𝑒𝓇𝓊</p>
-<p><a href="https://www.youtube.com/watch?v=_WXNeFygGME">- 𝐼𝓀𝑒𝓃𝒶𝒾 𝐵𝑜𝓇𝒹𝑒𝓇𝓁𝒾𝓃𝑒 (𝒲𝒶𝓁𝓀𝓊𝓇𝑒)</a><p>
-  
-</div>
-    <div align="center">
-<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
-      </div>
-<div>
+
+<!-- <img src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif"> -->
+
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" align="right">
   </div>
 <li>
  <b>Name:</b> <a href='https://emonsha.me' target=_blank>Md Ileas Sha Emon</a></li>
@@ -75,7 +57,7 @@ I am also very good at WordPress Customization. And I am good at writing Guides 
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
 <p align="center">Here some of my <br>
@@ -87,7 +69,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 <hr>
 </div>
