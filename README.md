@@ -2,6 +2,9 @@
   <center>
 <h1 align="center">~ 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 ℙ𝕣𝕠𝕗𝕚𝕝𝕖 ~</h1>
 <br>
+ <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=snpsujon&color=green"/>
+    </div>
 
 <!-- <img src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif"> -->
 
@@ -61,7 +64,7 @@ I am also very good at WordPress Customization. And I am good at writing Guides 
   </div>
 <br>
 <p align="center">Here some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
+most used s-s-sociaw things</p>
 <p align="center"><a href="https://twitter.com/eemonsha" target="_blank"><img src="https://img.shields.io/badge/eemonsha%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/eemonsha" target="_blank"><img src="https://img.shields.io/badge/eemonsha%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 <p align="center"><a href="https://twitch.tv/eemonsha" target="_blank"><img src="https://img.shields.io/badge/eemonsha%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a> <a href="https://facebook.com/eemonsha" target="_blank"><img src="https://img.shields.io/badge/eemonsha-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/eemonsha" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/eemonsha-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 </div>
